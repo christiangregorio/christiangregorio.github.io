@@ -14,14 +14,14 @@ body {
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
-    margin-top: 180px; /* Aumenta este valor para mover la foto hacia abajo */
+    margin-top: 180px;
 }
 
 .biografia {
-    margin-top: 30px; /* Ajusta este valor para bajar el bloque de biografía */
+    margin-top: 30px;
     font-size: 0.9rem;
     line-height: 1.4;
-    font-style: italic; /* Aplica cursiva al texto de la biografía */
+    font-style: italic;
 }
 
 .titulo {
@@ -31,8 +31,8 @@ body {
 
 .nombre-derecha {
     position: absolute;
-    top: 50px; /* Reduce este valor para que esté más arriba */
-    right: 50px; /* Reduce este valor para acercarlo a la esquina derecha */
+    top: 50px; 
+    right: 50px;
     text-align: right;
     color: #ffffff;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .contacto, .web {
-    margin-top: 20px; /* Ajusta este valor para bajar el bloque de contactos */
+    margin-top: 20px;
     font-size: 0.9rem;
     margin: 0;
 }
